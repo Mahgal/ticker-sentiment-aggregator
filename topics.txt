@@ -1,0 +1,8 @@
+sentiment-analysis
+finance
+stocks
+rss
+csv
+python
+cli
+trading-tools

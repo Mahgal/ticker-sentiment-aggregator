@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SAMPLE DATA — fictional headlines written for offline demo purposes only.
+     These are NOT live market data and do not reflect real news or real prices.
+     Bundled so the tool can be tried without any network access. -->
+<rss version="2.0">
+  <channel>
+    <title>Sample Feed — AAPL headlines (demo data)</title>
+    <link>https://example.com/sample</link>
+    <description>Sample headlines for the ticker-sentiment-aggregator offline demo.</description>
+    <item>
+      <title>AAPL beats earnings expectations as iPhone sales surge to record high</title>
+      <pubDate>Mon, 10 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AAPL shares fall after analysts warn of weak demand and supply delays</title>
+      <pubDate>Mon, 10 Nov 2026 09:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AAPL unveils new chip with breakthrough performance and strong early reviews</title>
+      <pubDate>Mon, 10 Nov 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regulators open investigation into AAPL over app store fees</title>
+      <pubDate>Mon, 10 Nov 2026 11:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AAPL announces $110 billion buyback and raises dividend, shares climb</title>
+      <pubDate>Mon, 10 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AAPL faces lawsuit over battery claims as shares drop</title>
+      <pubDate>Mon, 10 Nov 2026 14:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AAPL reports solid growth in services revenue, outlook remains optimistic</title>
+      <pubDate>Mon, 10 Nov 2026 15:35:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
